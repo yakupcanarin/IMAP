@@ -71,7 +71,7 @@
             this.txt_Email.Name = "txt_Email";
             this.txt_Email.Size = new System.Drawing.Size(247, 20);
             this.txt_Email.TabIndex = 3;
-            this.txt_Email.Text = "c.yakup10@gmail.com";
+            this.txt_Email.Text = "...@gmail.com";
             // 
             // txt_Password
             // 
@@ -80,7 +80,6 @@
             this.txt_Password.PasswordChar = '•';
             this.txt_Password.Size = new System.Drawing.Size(247, 20);
             this.txt_Password.TabIndex = 5;
-            this.txt_Password.Text = "p8xy6x8119zc";
             // 
             // label2
             // 
@@ -171,7 +170,7 @@
             this.txt_Dest_Email.Name = "txt_Dest_Email";
             this.txt_Dest_Email.Size = new System.Drawing.Size(254, 20);
             this.txt_Dest_Email.TabIndex = 12;
-            this.txt_Dest_Email.Text = "yunus.karaal@turkkep.com.tr";
+            this.txt_Dest_Email.Text = "...@domain....";
             // 
             // label3
             // 

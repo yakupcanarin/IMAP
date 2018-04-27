@@ -10,7 +10,6 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 using S22.Imap;
-using Deneme;
 namespace mail_IMAP
 {
     public partial class Form1 : Form
